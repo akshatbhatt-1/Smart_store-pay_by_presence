@@ -1,0 +1,5 @@
+mediapipe.solutions
+numpy
+opencv-python
+insightface
+onnxruntime

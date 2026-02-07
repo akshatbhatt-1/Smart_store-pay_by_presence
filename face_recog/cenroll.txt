@@ -1,0 +1,77 @@
+import cv2
+import numpy as np
+import insightface
+from embedding_store import save_embedding
+
+# Load InsightFace model
+app = insightface.app.FaceAnalysis(
+    name="buffalo_l",
+    providers=["CPUExecutionProvider"]
+)
+app.prepare(ctx_id=0, det_size=(640, 640))
+
+cap = cv2.VideoCapture(0)
+
+employee_id = input("Enter Employee ID (e.g. EMP_001): ")
+embeddings = []
+
+print("Press SPACE to capture face (5 times). Press ESC to cancel.")
+
+while True:
+    ret, frame = cap.read()
+    if not ret:
+        break
+
+    faces = app.get(frame)
+
+    # Draw face box if exactly one face
+    if len(faces) == 1:
+        face = faces[0]
+        x1, y1, x2, y2 = face.bbox.astype(int)
+        cv2.rectangle(frame, (x1,y1), (x2,y2), (0,255,0), 2)
+        message = f"Captures: {len(embeddings)}/5"
+    else:
+        message = "Ensure exactly ONE face"
+
+    cv2.putText(
+        frame,
+        message,
+        (20, 40),
+        cv2.FONT_HERSHEY_SIMPLEX,
+        1,
+        (0,255,0) if len(faces) == 1 else (0,0,255),
+        2
+    )
+
+    cv2.imshow("1C - Enrollment", frame)
+
+    key = cv2.waitKey(1) & 0xFF
+
+    # SPACE key pressed
+    if key == 32:
+        if len(faces) == 1:
+            embeddings.append(faces[0].normed_embedding)
+            print(f"Captured {len(embeddings)}/5")
+        else:
+            print("❌ Capture failed: ensure exactly ONE face")
+
+    # ESC key
+    if key == 27:
+        print("Enrollment cancelled")
+        break
+
+    # Stop after 5 captures
+    if len(embeddings) == 5:
+        break
+
+# Save embedding if successful
+if len(embeddings) == 5:
+    final_embedding = np.mean(embeddings, axis=0)
+    final_embedding /= np.linalg.norm(final_embedding)
+    save_embedding(employee_id, final_embedding)
+    print("✅ Enrollment complete. Embedding saved.")
+else:
+    print("❌ Enrollment incomplete. Nothing saved.")
+
+cap.release()
+cv2.destroyAllWindows()

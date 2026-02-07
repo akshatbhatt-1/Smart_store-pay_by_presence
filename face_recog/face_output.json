@@ -1,0 +1,752 @@
+[
+  {
+    "employee_id": "A_01",
+    "confidence": 0.86,
+    "timestamp": "2026-02-03T13:50:16.853375"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.85,
+    "timestamp": "2026-02-03T13:50:17.083282"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.85,
+    "timestamp": "2026-02-03T13:50:17.245640"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.84,
+    "timestamp": "2026-02-03T13:50:17.416868"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.85,
+    "timestamp": "2026-02-03T13:50:17.584331"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.86,
+    "timestamp": "2026-02-03T13:50:17.766620"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.79,
+    "timestamp": "2026-02-03T13:50:17.939266"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.8,
+    "timestamp": "2026-02-03T13:50:18.108477"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.82,
+    "timestamp": "2026-02-03T13:50:18.287812"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.84,
+    "timestamp": "2026-02-03T13:50:18.447196"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.82,
+    "timestamp": "2026-02-03T13:50:18.634394"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.82,
+    "timestamp": "2026-02-03T13:50:18.807259"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.84,
+    "timestamp": "2026-02-03T13:50:18.986304"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.85,
+    "timestamp": "2026-02-03T13:50:19.154880"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.84,
+    "timestamp": "2026-02-03T13:50:19.324764"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.81,
+    "timestamp": "2026-02-03T13:50:19.501528"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.81,
+    "timestamp": "2026-02-03T13:50:19.685997"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.79,
+    "timestamp": "2026-02-03T13:50:19.871799"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.8,
+    "timestamp": "2026-02-03T13:50:20.062602"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.78,
+    "timestamp": "2026-02-03T13:50:20.227224"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.78,
+    "timestamp": "2026-02-03T13:50:20.391681"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.79,
+    "timestamp": "2026-02-03T13:50:20.577571"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.83,
+    "timestamp": "2026-02-03T13:50:20.745060"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.82,
+    "timestamp": "2026-02-03T13:50:20.909325"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.82,
+    "timestamp": "2026-02-03T13:50:21.102904"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.81,
+    "timestamp": "2026-02-03T13:50:21.277404"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.8,
+    "timestamp": "2026-02-03T13:50:21.458432"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.87,
+    "timestamp": "2026-02-03T13:50:21.634773"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.86,
+    "timestamp": "2026-02-03T13:50:21.797363"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.86,
+    "timestamp": "2026-02-03T13:50:21.972985"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.85,
+    "timestamp": "2026-02-03T13:50:22.146006"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.86,
+    "timestamp": "2026-02-03T13:50:22.317820"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.86,
+    "timestamp": "2026-02-03T13:50:22.486594"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.86,
+    "timestamp": "2026-02-03T13:50:22.669268"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.87,
+    "timestamp": "2026-02-03T13:50:22.850880"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.87,
+    "timestamp": "2026-02-03T13:50:23.028777"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.87,
+    "timestamp": "2026-02-03T13:50:23.199162"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.78,
+    "timestamp": "2026-02-03T13:50:23.360874"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.78,
+    "timestamp": "2026-02-03T13:50:23.535769"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.79,
+    "timestamp": "2026-02-03T13:50:23.722126"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.79,
+    "timestamp": "2026-02-03T13:50:23.887562"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.78,
+    "timestamp": "2026-02-03T13:50:24.053008"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.78,
+    "timestamp": "2026-02-03T13:50:24.232343"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.8,
+    "timestamp": "2026-02-03T13:50:24.418838"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.8,
+    "timestamp": "2026-02-03T13:50:24.604618"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.82,
+    "timestamp": "2026-02-03T13:50:24.767449"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.78,
+    "timestamp": "2026-02-03T13:50:24.939983"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.81,
+    "timestamp": "2026-02-03T13:50:25.112271"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.82,
+    "timestamp": "2026-02-03T13:50:25.306793"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.83,
+    "timestamp": "2026-02-03T13:50:25.485523"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.83,
+    "timestamp": "2026-02-03T13:50:25.655065"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.83,
+    "timestamp": "2026-02-03T13:53:21.952406"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.85,
+    "timestamp": "2026-02-03T13:53:22.201538"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.81,
+    "timestamp": "2026-02-03T13:53:22.377283"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.8,
+    "timestamp": "2026-02-03T13:53:22.566788"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.87,
+    "timestamp": "2026-02-03T13:53:22.730010"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.88,
+    "timestamp": "2026-02-03T13:53:22.908802"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.88,
+    "timestamp": "2026-02-03T13:53:23.088280"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.8,
+    "timestamp": "2026-02-03T13:53:23.280201"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.81,
+    "timestamp": "2026-02-03T13:53:23.462089"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.84,
+    "timestamp": "2026-02-03T13:53:23.652514"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.85,
+    "timestamp": "2026-02-03T13:53:23.851098"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.83,
+    "timestamp": "2026-02-03T13:53:24.052094"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.84,
+    "timestamp": "2026-02-03T13:53:24.244558"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.87,
+    "timestamp": "2026-02-03T13:53:24.456903"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.88,
+    "timestamp": "2026-02-03T13:53:24.635997"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.84,
+    "timestamp": "2026-02-03T13:53:24.815703"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.87,
+    "timestamp": "2026-02-03T13:53:24.987785"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.85,
+    "timestamp": "2026-02-03T13:53:25.169559"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.87,
+    "timestamp": "2026-02-03T13:53:25.376222"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.8,
+    "timestamp": "2026-02-03T13:53:25.573798"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.77,
+    "timestamp": "2026-02-03T13:53:25.781308"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.84,
+    "timestamp": "2026-02-03T13:53:25.970663"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.83,
+    "timestamp": "2026-02-03T13:53:26.178829"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.83,
+    "timestamp": "2026-02-03T13:53:26.370576"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.86,
+    "timestamp": "2026-02-03T13:53:26.565322"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.87,
+    "timestamp": "2026-02-03T13:53:26.760415"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.87,
+    "timestamp": "2026-02-03T13:53:26.940885"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.85,
+    "timestamp": "2026-02-03T13:53:27.128803"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.74,
+    "timestamp": "2026-02-03T14:15:09.420908"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.71,
+    "timestamp": "2026-02-03T14:15:09.691533"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.71,
+    "timestamp": "2026-02-03T14:15:09.851379"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.73,
+    "timestamp": "2026-02-03T14:15:10.021508"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.73,
+    "timestamp": "2026-02-03T14:15:10.194925"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.71,
+    "timestamp": "2026-02-03T14:15:10.404046"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.68,
+    "timestamp": "2026-02-03T14:15:10.570445"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.73,
+    "timestamp": "2026-02-03T14:15:10.755270"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.69,
+    "timestamp": "2026-02-03T14:15:10.932154"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.76,
+    "timestamp": "2026-02-03T14:15:11.119380"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.76,
+    "timestamp": "2026-02-03T14:15:11.303885"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.74,
+    "timestamp": "2026-02-03T14:15:11.484891"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.75,
+    "timestamp": "2026-02-03T14:15:11.655155"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.75,
+    "timestamp": "2026-02-03T14:15:11.823872"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.73,
+    "timestamp": "2026-02-03T14:15:12.147531"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.71,
+    "timestamp": "2026-02-03T14:15:12.370741"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.68,
+    "timestamp": "2026-02-03T14:15:12.552583"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.66,
+    "timestamp": "2026-02-03T14:15:12.748231"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.63,
+    "timestamp": "2026-02-03T14:15:12.938491"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.7,
+    "timestamp": "2026-02-03T14:15:13.123677"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.71,
+    "timestamp": "2026-02-03T14:15:13.315981"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.71,
+    "timestamp": "2026-02-03T14:18:07.290625"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.65,
+    "timestamp": "2026-02-03T14:18:10.341495"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.67,
+    "timestamp": "2026-02-03T14:18:12.365604"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.65,
+    "timestamp": "2026-02-03T14:18:14.394738"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.64,
+    "timestamp": "2026-02-03T14:18:16.461236"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.68,
+    "timestamp": "2026-02-03T14:18:18.468813"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.7,
+    "timestamp": "2026-02-03T14:18:20.547933"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.73,
+    "timestamp": "2026-02-03T14:27:42.205602"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.71,
+    "timestamp": "2026-02-03T14:27:44.259607"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.73,
+    "timestamp": "2026-02-03T14:27:46.276351"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.74,
+    "timestamp": "2026-02-03T14:27:48.359089"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.64,
+    "timestamp": "2026-02-03T14:30:52.366129"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.64,
+    "timestamp": "2026-02-03T14:30:54.369742"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.64,
+    "timestamp": "2026-02-03T14:30:56.402995"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.68,
+    "timestamp": "2026-02-03T14:32:11.346029"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.61,
+    "timestamp": "2026-02-03T14:32:13.426657"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.69,
+    "timestamp": "2026-02-03T14:32:15.548425"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.71,
+    "timestamp": "2026-02-03T14:32:17.570619"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.7,
+    "timestamp": "2026-02-03T14:33:20.847568"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.69,
+    "timestamp": "2026-02-03T14:33:22.890070"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.63,
+    "timestamp": "2026-02-03T14:33:24.903574"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.72,
+    "timestamp": "2026-02-03T14:33:27.074799"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.62,
+    "timestamp": "2026-02-03T14:33:29.893041"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.64,
+    "timestamp": "2026-02-03T14:33:32.231533"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.74,
+    "timestamp": "2026-02-03T14:33:34.274921"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.7,
+    "timestamp": "2026-02-03T14:33:55.317974"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.6,
+    "timestamp": "2026-02-03T14:33:57.927480"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.66,
+    "timestamp": "2026-02-03T14:33:59.980895"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.67,
+    "timestamp": "2026-02-03T14:34:02.124304"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.7,
+    "timestamp": "2026-02-03T14:34:20.509140"
+  },
+  {
+    "employee_id": "A_01",
+    "confidence": 0.6,
+    "timestamp": "2026-02-03T14:34:23.842727"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.71,
+    "timestamp": "2026-02-05T12:49:27.108981"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.86,
+    "timestamp": "2026-02-05T12:49:29.243952"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.85,
+    "timestamp": "2026-02-05T12:49:31.428789"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.85,
+    "timestamp": "2026-02-05T12:49:33.448709"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.68,
+    "timestamp": "2026-02-05T12:49:35.915936"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.84,
+    "timestamp": "2026-02-05T12:49:38.090643"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.83,
+    "timestamp": "2026-02-05T12:49:40.174797"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.86,
+    "timestamp": "2026-02-05T12:54:01.103303"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.85,
+    "timestamp": "2026-02-05T12:54:03.257496"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.82,
+    "timestamp": "2026-02-05T12:54:05.420754"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.74,
+    "timestamp": "2026-02-05T12:54:47.574005"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.83,
+    "timestamp": "2026-02-05T12:54:49.715099"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.83,
+    "timestamp": "2026-02-05T12:54:51.818588"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.83,
+    "timestamp": "2026-02-05T12:55:20.852946"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.86,
+    "timestamp": "2026-02-05T12:55:23.006579"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.83,
+    "timestamp": "2026-02-05T12:55:25.128658"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.84,
+    "timestamp": "2026-02-05T12:55:27.224401"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.72,
+    "timestamp": "2026-02-05T13:01:04.871120"
+  },
+  {
+    "employee_id": "Akshat_000",
+    "confidence": 0.71,
+    "timestamp": "2026-02-05T13:01:07.015423"
+  }
+]
