@@ -1,0 +1,14 @@
+camera_name: object
+yolo_imgsz: 416
+yolo_conf: 0.5
+iou: 0.2
+confirm_frames: 1
+known_weights:
+  maaza: 156
+  snickers: 22
+  lotte_choco_pie: 28
+weight_tolerance: 8
+inventory:
+  lotte_choco_pie: 0
+  maaza: 0
+  snickers: 0

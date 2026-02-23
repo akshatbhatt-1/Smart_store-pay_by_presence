@@ -1,0 +1,1352 @@
+[
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:01:12.761242"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:01:12.878125"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:01:13.156871"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:01:13.248644"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:01:13.664733"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:01:13.761002"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:01:13.877210"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:01:19.794711"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:01:19.891272"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:01:20.003883"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:01:20.100264"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:02:17.558814"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:01.623935"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:01.734245"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:01.829901"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:01.928043"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:02.038950"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:02.133023"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:02.249263"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:02.345331"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:02.440802"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:05.065710"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:05.179955"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:05.399071"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:05.512254"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:05.607984"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:05.722336"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:05.816835"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:05.914115"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:06.022228"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:06.121973"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:06.235138"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:03:06.329400"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:06:10.348506"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:06:10.462915"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:06:10.567702"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:06:14.478123"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:06:14.581384"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:06:22.636996"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:06:25.676604"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:06:30.670925"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:06:36.460529"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:06:49.163849"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:06:49.261231"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:06:50.622246"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:06:50.733740"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:07:13.885181"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:07:13.980150"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:07:14.085906"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:07:14.187108"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:07:14.284109"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:07:17.004545"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:10:18.594689"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:10:18.772011"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:10:18.900944"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:10:18.983599"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:10:19.077867"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:11:20.148067"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:11:20.451997"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:11:20.929881"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:11:21.123814"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:11:29.808390"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:11:29.908143"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:11:30.032706"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:11:30.113853"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:11:30.214932"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:11:30.333811"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:11:30.417189"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:11:50.516374"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:11:50.650752"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:11:50.765086"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:13:40.149138"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:15:07.304619"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:15:23.000299"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:15:26.712084"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:15:32.327488"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:15:36.646492"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:15:42.839927"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:15:45.878819"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:15:52.278006"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:23:50.598296"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:24:35.780057"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:25:18.135228"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:28:01.051652"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:28:22.267070"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T08:28:31.562503"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T15:59:24.680016"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T15:59:27.720476"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T15:59:31.764310"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T15:59:34.785518"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T15:59:37.988817"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T15:59:44.356533"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T15:59:49.763952"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T15:59:56.705496"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T16:00:00.933037"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T16:00:03.947048"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T16:00:18.532194"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T16:00:23.299938"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T16:00:34.614909"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T16:13:49.700813"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T16:13:57.193359"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T16:14:00.217731"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T16:17:06.074855"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T16:17:15.708275"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T16:17:21.085317"
+    },
+    {
+        "item": "maaza",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T16:17:24.105962"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T16:17:46.309289"
+    },
+    {
+        "item": "snickers",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T16:18:13.402812"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "employee_id": "141",
+        "confidence": 0.64,
+        "timestamp": "2026-02-19T16:18:17.960662"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.95,
+        "weight": -133.14,
+        "timestamp": "2026-02-20T12:12:15.989856"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": -35.67,
+        "timestamp": "2026-02-20T12:32:20.804324"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": -58.17,
+        "timestamp": "2026-02-20T12:32:21.159181"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": -85.23,
+        "timestamp": "2026-02-20T12:32:21.428634"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": -107.62,
+        "timestamp": "2026-02-20T12:32:21.694278"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": -122.73,
+        "timestamp": "2026-02-20T12:32:26.980423"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": -108.35,
+        "timestamp": "2026-02-20T12:32:27.892207"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": -90.22,
+        "timestamp": "2026-02-20T12:32:28.165608"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": -68.6,
+        "timestamp": "2026-02-20T12:32:28.427862"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": -48.1,
+        "timestamp": "2026-02-20T12:32:28.726156"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": -33.05,
+        "timestamp": "2026-02-20T12:32:32.261277"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 31.53,
+        "timestamp": "2026-02-20T12:33:08.707937"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 50.63,
+        "timestamp": "2026-02-20T12:33:08.971662"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 72.95,
+        "timestamp": "2026-02-20T12:33:09.329072"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 96.09,
+        "timestamp": "2026-02-20T12:33:09.601665"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 115.0,
+        "timestamp": "2026-02-20T12:33:09.872656"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 176.1,
+        "timestamp": "2026-02-20T12:33:30.705743"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 156.77,
+        "timestamp": "2026-02-20T12:33:30.986310"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 134.27,
+        "timestamp": "2026-02-20T12:33:31.259490"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 109.39,
+        "timestamp": "2026-02-20T12:33:31.550509"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 89.95,
+        "timestamp": "2026-02-20T12:33:31.890274"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 99.32,
+        "timestamp": "2026-02-20T12:33:35.987418"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 118.63,
+        "timestamp": "2026-02-20T12:33:36.274882"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 189.46,
+        "timestamp": "2026-02-20T12:40:01.493279"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 191.69,
+        "timestamp": "2026-02-20T12:40:27.876646"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 22.12,
+        "timestamp": "2026-02-20T12:44:30.537185"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 47.12,
+        "timestamp": "2026-02-20T12:44:30.781740"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 75.66,
+        "timestamp": "2026-02-20T12:44:31.055889"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 100.16,
+        "timestamp": "2026-02-20T12:44:31.343867"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 124.34,
+        "timestamp": "2026-02-20T12:44:31.678095"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 142.86,
+        "timestamp": "2026-02-20T12:44:31.965481"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 166.17,
+        "timestamp": "2026-02-20T12:44:39.331786"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 144.26,
+        "timestamp": "2026-02-20T12:44:39.602100"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 117.85,
+        "timestamp": "2026-02-20T12:44:39.887876"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 95.76,
+        "timestamp": "2026-02-20T12:44:40.155071"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 105.27,
+        "timestamp": "2026-02-20T12:44:43.695935"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 124.69,
+        "timestamp": "2026-02-20T12:44:43.985159"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 146.73,
+        "timestamp": "2026-02-20T12:44:44.257580"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": 163.86,
+        "timestamp": "2026-02-20T12:44:44.609443"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.98,
+        "weight": -38.22,
+        "timestamp": "2026-02-20T12:52:41.283632"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.98,
+        "weight": -0.08,
+        "timestamp": "2026-02-20T14:36:51.591334"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 45.35,
+        "timestamp": "2026-02-21T21:08:14.544620"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 45.35,
+        "timestamp": "2026-02-21T21:08:14.570951"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 31.56,
+        "timestamp": "2026-02-21T21:08:22.488214"
+    },
+    {
+        "item": "maaza",
+        "confidence": 0.99,
+        "weight": 158.08,
+        "timestamp": "2026-02-21T21:08:30.115397"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 21.74,
+        "timestamp": "2026-02-21T21:08:36.559964"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 114.08,
+        "timestamp": "2026-02-21T21:08:48.569963"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 114.08,
+        "timestamp": "2026-02-21T21:08:48.595928"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 114.08,
+        "timestamp": "2026-02-21T21:08:48.601593"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 114.08,
+        "timestamp": "2026-02-21T21:08:48.630219"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 21.36,
+        "timestamp": "2026-02-21T21:08:52.395699"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 39.48,
+        "timestamp": "2026-02-21T21:09:06.173981"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 39.48,
+        "timestamp": "2026-02-21T21:09:06.189638"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 33.13,
+        "timestamp": "2026-02-21T21:09:15.256714"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 42.53,
+        "timestamp": "2026-02-21T21:11:57.982187"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 42.53,
+        "timestamp": "2026-02-21T21:11:57.998059"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 21.03,
+        "timestamp": "2026-02-21T21:12:09.418608"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 28.42,
+        "timestamp": "2026-02-21T21:12:17.920463"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 52.09,
+        "timestamp": "2026-02-21T21:13:01.021725"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 52.09,
+        "timestamp": "2026-02-21T21:13:01.065084"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 28.83,
+        "timestamp": "2026-02-21T21:13:23.306504"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 24.0,
+        "timestamp": "2026-02-21T21:14:01.728141"
+    },
+    {
+        "item": "maaza",
+        "confidence": 0.99,
+        "weight": 28.57,
+        "timestamp": "2026-02-21T22:04:13.933597"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 19.53,
+        "timestamp": "2026-02-22T15:10:31.290333"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 26.94,
+        "timestamp": "2026-02-22T15:10:35.089217"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 45.47,
+        "timestamp": "2026-02-22T15:12:30.232433"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 45.47,
+        "timestamp": "2026-02-22T15:12:30.248479"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 21.94,
+        "timestamp": "2026-02-22T15:13:04.580190"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 34.21,
+        "timestamp": "2026-02-22T15:13:17.763400"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 143.85,
+        "timestamp": "2026-02-22T15:13:40.923205"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 143.85,
+        "timestamp": "2026-02-22T15:13:40.937581"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 143.85,
+        "timestamp": "2026-02-22T15:13:40.951407"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 143.85,
+        "timestamp": "2026-02-22T15:13:40.962439"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 143.85,
+        "timestamp": "2026-02-22T15:13:40.975621"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 30.46,
+        "timestamp": "2026-02-22T15:19:57.084024"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 42.03,
+        "timestamp": "2026-02-22T15:24:25.725690"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 42.03,
+        "timestamp": "2026-02-22T15:24:25.735689"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 20.71,
+        "timestamp": "2026-02-22T15:24:34.289128"
+    },
+    {
+        "item": "maaza",
+        "confidence": 0.99,
+        "weight": 155.31,
+        "timestamp": "2026-02-22T15:24:41.023026"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 73.98,
+        "timestamp": "2026-02-22T15:34:38.799537"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 73.98,
+        "timestamp": "2026-02-22T15:34:38.809855"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 73.98,
+        "timestamp": "2026-02-22T15:34:38.825856"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 49.25,
+        "timestamp": "2026-02-22T15:36:38.699047"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 49.25,
+        "timestamp": "2026-02-22T15:36:38.713052"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 34.8,
+        "timestamp": "2026-02-22T15:37:56.215519"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 56.83,
+        "timestamp": "2026-02-22T15:54:39.091629"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 56.83,
+        "timestamp": "2026-02-22T15:54:39.107181"
+    },
+    {
+        "item": "maaza",
+        "confidence": 0.99,
+        "weight": 155.04,
+        "timestamp": "2026-02-22T15:54:45.549097"
+    },
+    {
+        "item": "maaza",
+        "confidence": 0.99,
+        "weight": 150.47,
+        "timestamp": "2026-02-22T16:10:35.806371"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 22.06,
+        "timestamp": "2026-02-22T16:10:41.603369"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 50.01,
+        "timestamp": "2026-02-22T16:10:46.352765"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 50.01,
+        "timestamp": "2026-02-22T16:10:46.400999"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 22.11,
+        "timestamp": "2026-02-22T16:10:52.223923"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 21.13,
+        "timestamp": "2026-02-22T16:11:32.913993"
+    },
+    {
+        "item": "maaza",
+        "confidence": 0.99,
+        "weight": 152.49,
+        "timestamp": "2026-02-22T16:11:44.930544"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 51.2,
+        "timestamp": "2026-02-22T16:12:03.100243"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 51.2,
+        "timestamp": "2026-02-22T16:12:03.115617"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 31.34,
+        "timestamp": "2026-02-22T16:12:50.301098"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 22.97,
+        "timestamp": "2026-02-22T16:14:21.764725"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 34.46,
+        "timestamp": "2026-02-22T16:14:42.577315"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 56.22,
+        "timestamp": "2026-02-22T16:14:49.304561"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 56.22,
+        "timestamp": "2026-02-22T16:14:49.323852"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 22.41,
+        "timestamp": "2026-02-22T16:27:21.616450"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 28.58,
+        "timestamp": "2026-02-22T16:27:25.740455"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 21.42,
+        "timestamp": "2026-02-22T16:27:34.824540"
+    },
+    {
+        "item": "maaza",
+        "confidence": 0.99,
+        "weight": 159.48,
+        "timestamp": "2026-02-22T16:28:27.573592"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 22.38,
+        "timestamp": "2026-02-22T16:28:42.234760"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 28.71,
+        "timestamp": "2026-02-22T16:28:48.382030"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 29.6,
+        "timestamp": "2026-02-22T16:28:54.535260"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 79.87,
+        "timestamp": "2026-02-22T16:34:04.722278"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 79.87,
+        "timestamp": "2026-02-22T16:34:04.751134"
+    },
+    {
+        "item": "lotte_choco_pie",
+        "confidence": 0.99,
+        "weight": 79.87,
+        "timestamp": "2026-02-22T16:34:04.776867"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 21.37,
+        "timestamp": "2026-02-22T16:34:21.446719"
+    },
+    {
+        "item": "maaza",
+        "confidence": 0.99,
+        "weight": 160.91,
+        "timestamp": "2026-02-22T16:34:30.245586"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 47.81,
+        "timestamp": "2026-02-22T16:36:36.750185"
+    },
+    {
+        "item": "snickers",
+        "confidence": 0.99,
+        "weight": 47.81,
+        "timestamp": "2026-02-22T16:36:36.774315"
+    }
+]
