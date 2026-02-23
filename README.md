@@ -113,7 +113,7 @@ cd pay-by-presence
 ### 2. Create virtual environment
 
 ```
-python -m venv venv
+python3.11 -m venv venv
 ```
 
 Windows:
