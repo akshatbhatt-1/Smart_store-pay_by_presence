@@ -1,5 +1,4 @@
 # Smart_store-pay_by_presence
-# Pay-By-Presence
 
 A Computer Vision Based Automated Retail Checkout System
 
